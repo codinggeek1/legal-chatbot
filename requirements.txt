@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+PyMuPDF
+nltk
+transformers
+rank-bm25
